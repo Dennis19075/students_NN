@@ -113,7 +113,7 @@ import matplotlib.pyplot as plt
 ```
 para graficar los resultados del modelo.
 
-![](modelo.jpg)
+![modeloentrenado](https://user-images.githubusercontent.com/29264946/90096889-3e194680-dcfa-11ea-8e4b-c9ab70103cab.png)
 
 ## Validación y aplicación
 
