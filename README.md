@@ -113,6 +113,8 @@ import matplotlib.pyplot as plt
 ```
 para graficar los resultados del modelo.
 
+![](modelo.jpg)
+
 ## Validación y aplicación
 
 ### Aplicación en tiempo real
@@ -162,6 +164,7 @@ def notif(predic):
             timeout=10,
         )
 ```
+![](./icons/sad.ico)
 
 Es la primera versión del análisis de reconocimiento de acciones de los estudiantes en clases virtuales para que los docentes tomen medidas antes posibles distracciones, cansancio, aburrimiento por una mala planificación y metodologías de la clase.
 
